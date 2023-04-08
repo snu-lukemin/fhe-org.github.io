@@ -155,7 +155,11 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>A Unified Framework of Homomorphic Encryption for Multiple Parties with Non-Interactive Setup</td>
     <td>Hyesun Kwak (Seoul National University), Dongwon Lee (Seoul National University), Yongsoo Song (Seoul National University), Sameer Wagh (Devron)</td>
-    <td>View</td>
+    <td>
+      <a href = "https://github.com/snu-lukemin/snu-lukemin.github.io/blob/master/files/MKTFHE_poster.pdf>
+          View
+      </a>
+    </td>
 </tr>
 
 <tr>
